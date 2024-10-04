@@ -8,7 +8,7 @@ An AI-powered assistant capable of understanding and responding in multiple lang
 
 ### Steps:
 
-#### STEP 01: Clone the Repository
+####  Clone the Repository
 Clone this repository to your local machine.
 
 ```bash
