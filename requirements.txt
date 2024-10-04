@@ -1,0 +1,11 @@
+SpeechRecognition
+pipwin
+pyaudio
+gTTS
+google-generativeai
+python-dotenv
+streamlit
+googletrans==4.0.0-rc1
+redis==5.0.0
+
+-e .
